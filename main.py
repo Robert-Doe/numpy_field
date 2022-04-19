@@ -1,3 +1,5 @@
 import numpy as np
+a=np.array([[4,4,4,4]])
+b=np.array([1,1,2,1])
 
-print(np.random.rand(3,4))
+print(a*b)
